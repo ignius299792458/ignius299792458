@@ -1,6 +1,6 @@
 # Mahesh Bogati
 
-Senior Backend Engineer specialising in distributed systems and agentic AI infrastructure.
+Senior Backend Engineer | distributed systems and specialising in agentic AI infrastructure.
 
 I build backends that scale — real-time event pipelines, horizontally scalable WebSocket clusters,
 microservices in Go and Node.js, and AI infrastructure layers around LLMs and autonomous agents.
