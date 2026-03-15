@@ -21,4 +21,4 @@ smarter and self-optimizing.
 - **RL & ML** - `Q-Learning` `Policy Gradient` `PyTorch` `scikit-learn` `matplotlib`
 - **Other & Frontend** - `Rust` `Java (Spring/Netty)` `React.js` `Next.js` `Tailwind CSS`
 
-Kathmandu, Nepal · maheshbogati.dev@gmail.com
+Kathmandu, Nepal · bogatimahesh.dev@gmail.com
