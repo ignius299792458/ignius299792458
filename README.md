@@ -13,7 +13,7 @@ and reinforcement learning agents that make backend services
 smarter and self-optimizing.
 
 ### What tools do I use?
-
+|------|-------|
 | **Language & Backend** | Golang (Fiber), Node (Express, NestJS), TS/JS, Python |
 | **Database** | PostgreSQL, MongoDB, Redis, ORM (Sequelize, R2DBC, GORM, SQLC/pgx) |
 | **Distributed** | Kafka, WebSocket, gRPC |
