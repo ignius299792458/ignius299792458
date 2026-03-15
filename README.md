@@ -14,8 +14,6 @@ smarter and self-optimizing.
 
 ### What tools do I use?
 
-| Area | Tools |
-|------|-------|
 | **Language & Backend** | Golang (Fiber), Node (Express, NestJS), TS/JS, Python |
 | **Database** | PostgreSQL, MongoDB, Redis, ORM (Sequelize, R2DBC, GORM, SQLC/pgx) |
 | **Distributed** | Kafka, WebSocket, gRPC |
