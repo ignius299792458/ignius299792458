@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mahesh Bogati
 
-<!--
-**ignius299792458/ignius299792458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer specialising in distributed systems and agentic AI infrastructure.
 
-Here are some ideas to get you started:
+I build backends that scale — real-time event pipelines, horizontally scalable WebSocket clusters,
+microservices in Go and Node.js, and AI infrastructure layers around LLMs and autonomous agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Go` `Node.js` `TypeScript` `Python`
+`Kafka` `WebSocket` `gRPC` `Redis` `PostgreSQL` `MongoDB`
+`AWS` `Docker` `Kubernetes` `Terraform`
+`LangChain` `LangGraph` `ChromaDB` `Ollama` `PyTorch`
+
+If it needs to handle scale, recover from failure,
+or think and adapt — I'm the engineer who builds it.
+
+📍 Kathmandu, Nepal · Open to remote
