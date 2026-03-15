@@ -13,8 +13,15 @@ and reinforcement learning agents that make backend services
 smarter and self-optimizing.
 
 ### What tools do I use?
-**Languages:** Go · Node.js · TypeScript · Python  
-**Infrastructure:** Kafka · Redis · WebSocket · AWS · Kubernetes  
-**AI/LLM:** LangChain · Ollama · ChromaDB · PyTorch  
 
-📍 Kathmandu, Nepal · maheshbogati.dev@gmail.com
+| Area | Tools |
+|------|-------|
+| **Language & Backend** | Golang (Fiber), Node (Express, NestJS), TS/JS, Python |
+| **Database** | PostgreSQL, MongoDB, Redis, ORM (Sequelize, R2DBC, GORM, SQLC/pgx) |
+| **Distributed** | Kafka, WebSocket, gRPC |
+| **Cloud & DevOps** | AWS (EC2, ECS, Lambda, S3, RDS, Cloudwatch, etc.), Docker, Kubernetes, Terraform, Jenkins, Prometheus, Grafana |
+| **AI / LLM Infra** | LLM API Integration, RAG Pipelines, Vector DBs (ChromaDB, PGVector), LangChain/LangGraph, Agent Orchestration, Streaming (SSE/WebSocket), LLM Observability |
+| **RL & ML** | Q-Learning, Policy Gradient, PyTorch, scikit-learn, matplotlib |
+| **Other & Frontend** | Rust (personal exploration), Java (Spring/Netty), React.js, Next.js, Tailwind CSS (supporting role) |
+
+Kathmandu, Nepal · maheshbogati.dev@gmail.com
