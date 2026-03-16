@@ -1,5 +1,3 @@
-# Mahesh Bogati
-
 **Senior Backend Engineer · 5+ years · Open to Remote**
 
 ### Who am I?
