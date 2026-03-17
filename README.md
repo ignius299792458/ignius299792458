@@ -18,5 +18,3 @@ smarter and self-optimizing.
 - **AI / LLM Infra** - `LLM API Integration` `RAG Pipelines` `ChromaDB` `PGVector` `LangChain` `LangGraph` `Agent Orchestration` `SSE/WebSocket Streaming` `LLM Observability`
 - **RL & ML** - `Q-Learning` `Policy Gradient` `PyTorch` `scikit-learn` `matplotlib`
 - **Other & Frontend** - `Rust` `Java (Spring/Netty)` `React.js` `Next.js` `Tailwind CSS`
-
-Kathmandu, Nepal · bogatimahesh.dev@gmail.com
