@@ -1,4 +1,4 @@
-**Senior Backend Engineer · 5+ years · Open to Remote**
+**Senior Backend Engineer · 6+ years · Open to Remote**
 
 ### Who am I?
 I build large-scale backend systems that handle real traffic —
