@@ -11,10 +11,9 @@ and reinforcement learning agents that make backend services
 smarter and self-optimizing.
 
 ### What tools do I use?
-- **Language & Backend** - `Golang (Fiber)` `Node (Express, NestJS)` `TypeScript` `JavaScript` `Python`
+- **Language** - `Golang` `Rust` `Node` `TypeScript` 
 - **Database** - `PostgreSQL` `MongoDB` `Redis`
 - **Distributed** - `Kafka` `WebSocket` `gRPC`
-- **Cloud & DevOps** - `AWS` `Docker` `Kubernetes` `Terraform` `Observability & Monitoring` 
-- **AI / LLM Infra** - `LLM API Integration` `RAG Pipelines` `ChromaDB` `PGVector` `LangChain` `LangGraph` `Agent Orchestration` `SSE/WebSocket Streaming` `LLM Observability`
-- **RL & ML** - `Q-Learning` `Policy Gradient` `PyTorch` `scikit-learn` `matplotlib`
-- **Other & Frontend** - `Rust` `Java (Spring/Netty)` `React.js` `Next.js` `Tailwind CSS`
+- **Cloud & DevOps** - `AWS` `Docker` `Kubernetes` `Terraform`
+- **AI / LLM Infra** - `RAG Pipelines` `LangChain` `LangGraph` `Agent Orchestration`
+- **Frontend** -  `React.js` `Next.js`
