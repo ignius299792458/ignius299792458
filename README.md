@@ -6,7 +6,7 @@ chat platforms, gaming infrastructure, and AI-powered services
 trusted by 500K+ users across distributed cloud environments.
 
 ### My Engineering Tools
-- **Language** - `Golang` `Rust` `Node` `TypeScript` 
+- **Language** - `Golang` `Rust` `TypeScript` `Python`
 - **Database** - `PostgreSQL` `MongoDB` `Redis`
 - **Distributed** - `Kafka` `WebSocket` `gRPC`
 - **Cloud & DevOps** - `AWS` `Docker` `Kubernetes` `Terraform`
