@@ -11,4 +11,4 @@
 ---
 
 Email: bogatimahesh.dev@gmail.com
-> I have officially earned my Bachelor's degree in Electronics, Communication and Information Technology.
+> I have officially earned my Bachelor's degree of Engineering in Electronics, Communication and Information Technology.
