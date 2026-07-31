@@ -1,4 +1,4 @@
-**Senior Backend Engineer · 6+ years**
+**Senior Backend System and AI Engineer**
 
 - `Golang` `Rust` `TypeScript` `Python`
 - `PostgreSQL` `MongoDB` `Redis`
