@@ -1,12 +1,11 @@
-**Senior Backend System and AI Engineer**
+**Senior | Backend System | AI Engineer**
 
 - `Golang` `Rust` `TypeScript` `Python`
 - `PostgreSQL` `MongoDB` `Redis`
 - `Kafka` `WebSocket` `gRPC`
-  
----
-- **Cloud & DevOps** - `AWS` `Docker` `Kubernetes` `Terraform`
 - **AI / LLM Infra** - `RAG Pipelines` `LangChain` `LangGraph` `Agent Orchestration`
+  
+- **Cloud & DevOps** - `AWS` `Docker` `Kubernetes` `Terraform`
 - **Frontend** -  `React.js` `Next.js`
 ---
 
