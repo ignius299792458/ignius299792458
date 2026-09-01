@@ -8,4 +8,5 @@
 - **Frontend** -  `React.js` `Next.js`
 
 Email: bogatimahesh.dev@gmail.com
+
 Electronics, Communication and Information Technology Engineering
