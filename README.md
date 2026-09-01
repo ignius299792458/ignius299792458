@@ -1,6 +1,6 @@
 **Senior | Backend System | AI Engineer**
 
-- **Language** - `Golang` `Rust` `TypeScript` `Python`
+- **Language** - `Golang` `Rust` `TypeScript (Nodejs)` `Python`
 - **Storage** - `PostgreSQL` `MongoDB` `Redis`
 - **Data Flow** - `Kafka` `WebSocket` `gRPC`
 - **AI / LLM Infra** - `RAG Pipelines` `LangChain` `LangGraph` `Agent Orchestration`
